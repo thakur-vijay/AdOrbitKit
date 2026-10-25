@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdOrbitKit",
-            url: "https://github.com/thakur-vijay/AdOrbitKit/releases/download/1.0.8/AdOrbitKit.xcframework.zip",
-            checksum: "da10de7c00f17e8192e6968acf1c8550937a2d64be33ddd55e531e966bcb9cf5"
+            url: "https://github.com/thakur-vijay/AdOrbitKit/releases/download/1.1.1/AdOrbitKit.xcframework.zip",
+            checksum: "a2658159378a1fde68d637390ca979613c7697dd9e032fee923526f06e44db89"
         )
     ],
 
